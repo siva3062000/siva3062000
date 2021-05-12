@@ -3,6 +3,7 @@
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/siva3062000)
 
 ### Addicted to:
+<p style="text-align:left;">
 <img src="static\images\python_logo.png" alt="python" width="40" height="40"/>
 <img src="static\images\java_logo.png" alt="java" width="40" height="40"/>
 <img src="static\images\html_5_logo.png" alt="html" width="40" height="40"/>
@@ -14,7 +15,7 @@
 <img src="static\images\android_logo.png" alt="android" width="40" height="40"/>
 <img src="static\images\git_logo.png" alt="git" width="40" height="40"/>
 <img src="static\images\vs_code_logo.png" alt="vs code" width="40" height="40"/>
-
+</p>
 ### Interested in:
 * Artificial Intelligence
 * Data Science
