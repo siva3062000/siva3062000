@@ -16,6 +16,7 @@
 <img src="static\images\git_logo.png" alt="git" width="40" height="40"/>
 <img src="static\images\vs_code_logo.png" alt="vs code" width="40" height="40"/>
 </p>
+
 ### Interested in:
 * Artificial Intelligence
 * Data Science
