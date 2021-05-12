@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi <img src="static\gifs\hi.gif" width="30px"> I'm Siva Kumar
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/siva3062000/)
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/siva3062000)
 
-<!--
-**siva3062000/siva3062000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Addicted to:
+<p align="left">
+<img src="static\images\python_logo.png" alt="python" width="40" height="40"/>
+<img src="static\images\html_5_logo.png" alt="python" width="40" height="40"/>
+<img src="static\images\postgresql_logo.png" alt="python" width="40" height="40"/>
+<img src="static\images\git_logo.png" alt="python" width="40" height="40"/>
 
-Here are some ideas to get you started:
+### Interested in:
+* Artificial Intelligence
+* Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+<!-- <details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siva3062000&show_icons=true&theme=gotham" alt="siva3062000 | Stats" />
+
+</details>
 -->
+
