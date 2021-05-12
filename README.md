@@ -8,13 +8,17 @@
 <img src="static\images\java_logo.png" alt="java" width="40" height="40"/>
 <img src="static\images\html_5_logo.png" alt="html" width="40" height="40"/>
 <img src="static\images\js_logo.png" alt="java script" width="30" height="40"/>
-<img src="static\images\postgresql_logo.png" alt="postgres" width="40" height="40"/>
+<img src="static\images\postgresql_logo.png" alt="postgresql" width="40" height="40"/>
+<img src="static\images\mysql_logo.png" alt="mysql" width="40" height="40"/>
+<img src="static\images\firebase_logo.png" alt="firebase" width="40" height="40"/>
 <img src="static\images\tableau_logo.svg" alt="tableau" width="40" height="40"/>
 <img src="static\images\django_logo.png" alt="django" width="50" height="50"/>
 <img src="static\images\python_telegram_bot_logo.png" alt="telegram bot" width="40" height="40"/>
 <img src="static\images\android_logo.png" alt="android" width="40" height="40"/>
 <img src="static\images\git_logo.png" alt="git" width="40" height="40"/>
 <img src="static\images\vs_code_logo.png" alt="vs code" width="40" height="40"/>
+<img src="static\images\google_colab_logo.png" alt="google colab" width="40" height="40"/>
+<img src="static\images\netbeans_logo.png" alt="netbeans" width="40" height="40"/>
 </p>
 
 ### Interested in:
