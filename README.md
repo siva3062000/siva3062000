@@ -21,7 +21,8 @@
 * Artificial Intelligence
 * Data Science
 
-
+### Visitors count
+ ![Visitor Count](https://profile-counter.glitch.me/{siva3062000}/count.svg)
 
 <!-- <details>
 <summary>📊 Github Stats</summary>
