@@ -1,4 +1,4 @@
-# Hi <img src="static\gifs\hi.gif" width="30px"> I'm Siva Kumar
+# Hi <img src="static\gifs\hi.gif" height="30px" width="30px"> I'm Siva Kumar
 <!--[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]--><!--(https://www.linkedin.com/in/siva3062000/)-->
 <!--[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />]--><!--(https://twitter.com/siva3062000)-->
 
